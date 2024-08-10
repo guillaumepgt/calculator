@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 .idea
 calculator.iml
 app/target
+=======
+/.idea
+./calculator.iml
+/app/target
+>>>>>>> 603d30cde944d4f761f67ae17cbdc7764b64ff1d
